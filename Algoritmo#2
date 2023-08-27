@@ -1,0 +1,23 @@
+//Calculo de idade
+Iniciei Algoritmo
+
+    declarar variaveis ano_nascimento -1993, ano_atual - pegar-ano, idade_atual - ano_atual - ano_nascimento
+
+    Mostrar na tela: Minha idade é: (idade_atual)
+
+
+Finalizei Algorimo
+
+-----------------------------------------------------------------------------------------
+//Calculo de idade Dinamico
+Iniciei Algoritmo
+
+    declarar variaveis ano_nascimento, ano_atual - pegar-ano, 
+    
+    RECEBER VARIAVEL (ANO_NASCIMENTO DO USUARIO)
+    
+    DECLARAR VARIAVEL IDADE_ATUAL - ano_atual - ano_nascimento
+    Mostrar na tela: Minha idade é: \(idade_atual)
+
+
+Finalizei Algorimo

@@ -1,0 +1,28 @@
+//Algoritmo para entrar no cinema sem restrições//
+Iniciei algoritmo
+
+    declarei variaveis  Horario_filme_horario_atual
+
+    se Horario-atual >= Horario_filme
+
+        -- Posso entrar!
+    fim se
+    caso contrario
+        --vamos esperar 
+
+Finalizei algoritmo
+
+-----------------------------------------------------------------
+
+Iniciei algoritmo
+
+    declarei variaveis  Horario_filme_horario_atual
+
+    se Horario-atual >= Horario_filme e Horario-atual <= Horario_filme +30
+
+        -- Posso entrar!
+    fim se
+    caso contrario
+        --vamos esperar 
+
+Finalizei algoritmo
